@@ -8,5 +8,11 @@ public class Main {
                solar.planets="2";
 
 
+               featuresSun Xron = new featuresSun();
+               Xron.temerature="124565";
+               Xron.redius=12545888;
+               Xron.color="pink";
+
+
     }
 }
