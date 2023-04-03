@@ -10,9 +10,8 @@ public class Main {
 
                featuresSun Xron = new featuresSun();
                Xron.temerature="124565";
-               Xron.redius=12545888;
+               Xron.redius="12545888";
                Xron.color="pink";
-
 
     }
 }
